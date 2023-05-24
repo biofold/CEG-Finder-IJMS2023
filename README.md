@@ -1,4 +1,4 @@
-# CEG-Finder
+# CEG-Finder IJMS2023
 
 
 INTRODUCTION
